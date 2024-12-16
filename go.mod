@@ -1,3 +1,3 @@
-module github.com/kaushalmodi/hugo-atom-feed
+module github.com/anthonygraca/hugo-atom-feed
 
 go 1.16
